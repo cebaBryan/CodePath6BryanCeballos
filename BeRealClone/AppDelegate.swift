@@ -2,18 +2,20 @@
 //  AppDelegate.swift
 //  BeRealClone
 //
-//  Created by Bryan Ceballos on 2/26/24.
+//  Created by Alejandro Diaz on 2/27/24.
 //
 
 import UIKit
+import ParseSwift
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        ParseSwift.initialize(applicationId: "DhGNwUwOXUidn15jOAX6avbCCiDXgNRpBqeVut1i",
+                              clientKey: "tfdYit6QzZQmZ3OBXj9rfWIqq0lNuO473uc0kFA6",
+                              serverURL: URL(string: "https://parseapi.back4app.com")!)
         return true
     }
 
@@ -33,4 +35,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
+
+
 
