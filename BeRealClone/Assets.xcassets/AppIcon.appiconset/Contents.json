@@ -1,7 +1,10 @@
 {
   "images" : [
     {
+<<<<<<< HEAD
       "filename" : "download-1.jpg",
+=======
+>>>>>>> b6863650d4e1d504df93be0cf8e7a21bfc66ebf6
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"

@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+=======
+//
+//  AppDelegate.swift
+//  BeRealClone
+//
+//  Created by Alejandro Diaz on 2/27/24.
+//
+
+>>>>>>> b6863650d4e1d504df93be0cf8e7a21bfc66ebf6
 import UIKit
 import ParseSwift
 
@@ -28,3 +38,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> b6863650d4e1d504df93be0cf8e7a21bfc66ebf6
