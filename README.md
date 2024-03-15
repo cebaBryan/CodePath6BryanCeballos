@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project 5 - *BeRealClone*
 
 Submitted by: **Bryan Ceballos**
@@ -51,3 +52,6 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+=======
+# CodePath6BryanCeballos
+>>>>>>> 91d9191e5e015de7051721a35fadc2c04553a74a
