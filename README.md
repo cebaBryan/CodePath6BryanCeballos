@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-# Project 5 - *BeRealClone*
+# Project 6 - *BeRealClone*
 
 Submitted by: **Bryan Ceballos**
 
-**BeRealClone** is an app that allows users to post pictures with a caption in order to show others what they are doing.
+**Name of your app** is an app that allows users to post pictures with a caption in order to show others what they are doing.
 
 Time spent: **5** hours spent in total
 
@@ -11,19 +10,15 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] User can register a new account
-- [X] User can log in with newly created account
-- [X] App has a feed of posts when user logs in
-- [X] User can upload a new post which takes in a picture from photo library and a caption	
+- [x] User can launch camera to take photo instead of photo library
+- [x] User session persists when application is closed and relaunched
+- [x] Users are able to log out and return to sign in page
+- [x] Users are NOT able to see other photos until they upload their own	
  
 The following **optional** features are implemented:
 
-- [ ] Users can pull to refresh their feed and see a loading indicator
-- [ ] Users can infinite-scroll in their feed to see past the 10 most recent photos
-- [X] Users can see location and time of photo upload in the feed	
-- [X] User is able to logout
-- [X] User stays logged in when app is closed and open again	
-
+- [ ] User receive notifcation when it is time to post
+- [ ] Users can make comments and view comments in posts	
 
 The following **additional** features are implemented:
 
@@ -31,11 +26,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-https://youtu.be/NkLyAiiOC4w
+https://youtu.be/7MMgGZbnzsc
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I'm using the simulator so I dont have the camera feature, I had this issue on previous projects too.
 
 ## License
 
@@ -52,6 +47,3 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-=======
-# CodePath6BryanCeballos
->>>>>>> 91d9191e5e015de7051721a35fadc2c04553a74a
